@@ -52,6 +52,13 @@ S P A C E S U I T   X</b>
 
 The X Factor slot is your chance to add any criteria that was missed.
 
+
+<b>What is next for the project?</b>
+Hopefully other analysts will use this method to rate ans explain thier own decisions.
+
+I'm also working on an online tool that will allow people to easily input thier own input and calculate. 
+
+
 Hopefully this tool will be useful.  Feel free to use it in your own analysis.  Professionals, funds, service providers and others are welcome to use this and alter at will.
 
 Thanks!
