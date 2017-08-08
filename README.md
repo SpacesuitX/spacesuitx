@@ -52,6 +52,30 @@ S P A C E S U I T   X</b>
 
 The X Factor slot is your chance to add any criteria that was missed.
 
+Security -                     Score 0-10 ___
+
+Participation -                Score 0-10 ___
+
+Accounting & Legal -           Score 0-10 ___
+
+Community, Management & Team - Score 0-10 ___
+
+Earnings -                     Score 0-10 ___
+
+Supply & Demand -              Score 0-10 ___
+
+Usability -                    Score 0-10 ___
+
+Industry/ Institutional -      Score 0-10 ___
+
+Technical -                    Score 0-10 ___
+
+X Factor -                     Score 0-10 ___
+
+
+                             <b>Total Score _____ (0-100)</b>
+
+
 
 <b>What is next for the project?</b>
 Hopefully other analysts will use this method to rate ans explain thier own decisions.
