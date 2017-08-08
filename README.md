@@ -8,7 +8,7 @@ I've made a simple tool called SPACESUIT X for analyzing the investment merits o
 
 This tool / project is published under the Creative Commons license and is free and open source.  I've tried to make it flexible enough for anyone to use and publish an analysis.   Hopefully the tool will be useful to some in the community.  You are welcome to use and adapt as you see fit.
 
-<b>What is it?
+<b>What is it?</b>
 
 <b>SPACESUIT X</b> is a rating scale of 0-100 which is based on an acronym for 10 categories that investors / analysts might consider regarding tokens, coins and ICO offerings.  The tenth category is “X Factor” which allows analysts to assign their own criteria for evaluation.
 
