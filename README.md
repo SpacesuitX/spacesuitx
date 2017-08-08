@@ -49,8 +49,10 @@ S P A C E S U I T   X</b>
 
 <b>X Factor</b> - What other factors would you like to include in your analysis?  What is the overal thesis?  Why will the markets place value on it?  What other risks are there?
 
-
 The X Factor slot is your chance to add any criteria that was missed.
+
+
+SPACESUIT X OVERALL SCORE 
 
 Security -                     Score 0-10 ___
 
@@ -72,8 +74,7 @@ Technical -                    Score 0-10 ___
 
 X Factor -                     Score 0-10 ___
 
-
-                             <b>Total Score _____ (0-100)</b>
+<b>                          Total Score _____ (0-100)</b>
 
 
 
